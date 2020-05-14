@@ -8,6 +8,10 @@ Vous pouvez modifier les citations pour augmenter le RP avec vos personnages
 
 Codé sur la version **5.0.0** d'Altis-Life
 
+## Photo :
+![Example1](https://steamuserimages-a.akamaihd.net/ugc/1018321916387562168/21F34CC1D3F0BDAC1AB66C164F7D1F43B697E721/)
+
+
 ## Crédits:
 **Auteur** : Novax
 **Musiques** : Arma 3 OST - Defaut : **This is War (Marksmen remix)** <= Allez écouter l'ost les musiques sont cools
