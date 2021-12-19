@@ -2,7 +2,7 @@ class Life_Settings {
 
 	//Add those lines inside 
 	/* Novax Scripts */ 
-    nov_quotesLanguage = "ENG" // "FR" OR "ENG" (Ask on github if you want me to implement another language)
+    nov_quotesLanguage = "ENG"; // "FR" OR "ENG" (Ask on github if you want me to implement another language)
 
 };
 
